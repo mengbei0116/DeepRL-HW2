@@ -55,7 +55,8 @@ $$Q(s, a) \leftarrow Q(s, a) + \alpha [r + \gamma Q(s', a') - Q(s, a)]$$
 
 此圖呈現了 50 次實驗的平均每回合累積獎勵，用以觀察訓練過程中的學習速度與穩定性。
 
-> **[在此插入圖片：reward-episodes.png]**
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/12324c08-6f22-4c9c-975f-150a2d93e1d7" />
+
 
 ---
 
