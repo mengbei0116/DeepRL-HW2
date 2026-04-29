@@ -48,7 +48,8 @@ $$Q(s, a) \leftarrow Q(s, a) + \alpha [r + \gamma Q(s', a') - Q(s, a)]$$
 
 在此圖中，箭頭表示該格點在經過 50 次訓練平均後的最優行動選擇，藍色區塊標示出代理人從起點到終點的實際行進路徑。
 
-> **[在此插入圖片：result.png]**
+<img width="1536" height="757" alt="image" src="https://github.com/user-attachments/assets/3573bf35-18ee-4925-93fc-3bf80e5859c4" />
+
 
 ### B. 學習收斂曲線 (Reward sum for episodes)
 
